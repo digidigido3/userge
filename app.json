@@ -1,0 +1,15 @@
+{
+  "name": "userge",
+  "description": "userge",
+  "logo": "https://i.imgur.com/ZLi4nDP.jpg",
+  "keywords": [
+    "telegram"
+  ],
+  "repository": "https://github.com/UsergeTeam/Userge",
+  "website":   "https://github.com/UsergeTeam/Userge",
+  "success_url": "https://t.me/scippletech",
+  },
+  "buildpacks": [{
+    "url": "heroku/python"
+  }]
+}
