@@ -9,6 +9,11 @@
   "website":   "https://github.com/UsergeTeam/Userge",
   "success_url": "https://t.me/scippletech",
   },
+  "env": {
+    "SECRET_TOKEN": {
+      "description": "A secret key for verifying the integrity of signed cookies.",
+      
+    },
   "buildpacks": [{
     "url": "heroku/python"
   }]
