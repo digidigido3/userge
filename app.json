@@ -29,5 +29,7 @@
     }
    
   },
-  
+  "buildpacks": [{
+    "url": "heroku/python"
+  }]
 }
